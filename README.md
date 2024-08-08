@@ -13,10 +13,3 @@
 </div>
  
 <br>
- 
-### me segue nas redes abaixo!
- 
-<div>
-  <a href="https://www.instagram.com/_joaovitorbatista_/" target="_blank"><img src="https://img.shields.io/badge/https%3A%2F%2Fwww.instagram.com%2F_joaovitorbatista_%2F
-"></a>
-</div>
